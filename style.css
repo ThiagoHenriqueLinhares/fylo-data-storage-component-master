@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:  hsl(229, 57%, 11%);
+    color: white;
+}
+
+img {
+    height: 45%;
+    position: absolute;
+    top: 55%;
+    width: 100%;
+
+    transform: translateX(-50%, -50%);
+}
+
+.barra {
+    background-color: hsl(228, 56%, 26%);
+    padding: 30px;
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 65%;
+
+    transform: translate(-50%, -50%);
+}
+
+p {
+    padding: 5px;
+
+}
+
+#iarmazenar {
+    width: 500px;
+}
